@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "B_PSU_0x00-rescue")(type "Legacy")(uri "${KIPRJMOD}/B_PSU_0x00-rescue.lib")(options "")(descr ""))
+)
