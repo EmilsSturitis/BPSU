@@ -3820,7 +3820,7 @@
     (uuid 00000000-0000-0000-0000-000062a12470)
     (property "Reference" "U1" (id 0) (at 111.76 38.9382 0))
     (property "Value" "ADP5070AREZ" (id 1) (at 111.76 41.2496 0))
-    (property "Footprint" "Package_SO:ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm" (id 2) (at 113.03 91.44 0)
+    (property "Footprint" "Package_SO:HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown" (id 2) (at 113.03 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5070.pdf" (id 3) (at 113.03 93.98 0)
@@ -5917,7 +5917,7 @@
       (reference "SS1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.5mm")
     )
     (path "/00000000-0000-0000-0000-000062a12470"
-      (reference "U1") (unit 1) (value "ADP5070AREZ") (footprint "Package_SO:ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm")
+      (reference "U1") (unit 1) (value "ADP5070AREZ") (footprint "Package_SO:HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown")
     )
     (path "/00000000-0000-0000-0000-000062ec2d4d"
       (reference "U2") (unit 1) (value "ADP7118WAUJZ-5.0") (footprint "Package_TO_SOT_SMD:TSOT-23-5_HandSoldering")
